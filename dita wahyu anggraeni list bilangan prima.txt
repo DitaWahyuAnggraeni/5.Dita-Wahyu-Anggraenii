@@ -1,0 +1,6 @@
+﻿Build started at 14:21...
+1>------ Build started: Project: 5 dita wahyu anggraini, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>5 dita wahyu anggraini -> C:\Users\sokif\source\repos\5 dita wahyu anggraini\bin\Debug\net8.0\5 dita wahyu anggraini.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 14:22 and took 14,374 seconds ==========
